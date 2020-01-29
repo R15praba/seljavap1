@@ -43,6 +43,7 @@ public class A {
 			double numericCellValue = c1.getNumericCellValue();
 			long l= (long)numericCellValue;
 		 t = String.valueOf(l);
+		 System.out.println(t);
 		}}
 	
 	return t;
