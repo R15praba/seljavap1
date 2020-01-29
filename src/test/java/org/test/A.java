@@ -43,10 +43,12 @@ public class A {
 			double numericCellValue = c1.getNumericCellValue();
 			long l= (long)numericCellValue;
 		 t = String.valueOf(l);
+		 System.out.println(1);
+		 System.out.println(2);
+		 System.out.println(3);
 		}}
 	
 	return t;
-	
 	}
 	}
 	
